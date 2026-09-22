@@ -1,0 +1,46 @@
+# Local workflow and private research
+.local/
+.agents/
+.codex/
+.planning/
+internal/
+notes/
+handoff/
+sessions/
+AGENTS.md
+AGENTS.override.md
+**/AGENTS.md
+**/AGENTS.override.md
+**/*agent*.md
+**/*AGENT*.md
+**/DECISIONS.md
+**/decisions.md
+**/*decision*.md
+**/*DECISION*.md
+**/PLAN.md
+**/plan.md
+**/*planning*.md
+**/*PLANNING*.md
+**/BACKLOG.md
+**/backlog.md
+**/HANDOFF.md
+**/handoff.md
+**/*handoff*.md
+**/*HANDOFF*.md
+**/SESSION*.md
+**/session*.md
+
+# Build output and local references
+**/bin/
+**/obj/
+artifacts/
+*.user
+*.suo
+*.csproj.user
+
+# OS and editor files
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
