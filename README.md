@@ -14,7 +14,7 @@ Every multiplier accepts `0.1` to `5.0`; `1.0` keeps vanilla speed. Food the mod
 
 ## Install and build
 
-Requires Sailwind with BepInEx 5. Build with `./Build.ps1 -GameDir <Sailwind folder> -BepInExCore <BepInEx core folder>`, then place `SailwindFoodPreservation.dll` from `src/bin/Release/netstandard2.0/` in `BepInEx/plugins/`.
+Requires Sailwind with [BepInEx 5](https://github.com/BepInEx/BepInEx/releases). Build with `./Build.ps1 -GameDir <Sailwind folder> -BepInExCore <BepInEx core folder>`, then place `SailwindFoodPreservation.dll` from `src/bin/Release/netstandard2.0/` in `BepInEx/plugins/`.
 
 This is a development build. In-game timing, save/reload, and mod combinations still need testing.
 
